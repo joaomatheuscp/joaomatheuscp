@@ -1,5 +1,5 @@
-# 💫 About Me:
-🔭 Sou estudante de Ciência da Computação<br>👯 Estou à procura de Estágio<br>🤝 I’m looking for help with<br>🌱 Estudando C++
+# 💫 Sobre mim:
+🔭 Sou estudante de Ciência da Computação<br>👯 Estou à procura de Estágio<br>🌱 Estudando C++
 
 
 ## 🌐 Socials:
